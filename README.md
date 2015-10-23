@@ -12,5 +12,10 @@ Trepo is an open source genealogy API. It comes with a versioned genealogical da
 ## Other Stuff
 
 * [Web Components](https://github.com/TrepoWebComponents/) - Polymer based HTML5 Web Components.
-* [Javascript Implementation](https://github.com/trepo/trepo-js) - Pre-alpha.
+* [Javascript Implementation](https://github.com/trepo/trepo-js) - It is pre-alpha right now.
+* [API Spec](https://github.com/trepo/api) - The Trepo API. Viewable via swagger-ui [here](swagger.trepo.io).
+* [pTree Spec](https://github.com/trepo/ptree) - The "Whats".
+* [yProof Spec](https://github.com/trepo/yproof) - The "Whys".
+* [nPipes Spec](https://github.com/trepo/npipes) - Cross-repository query framework.
+* [vGraph Spec](https://github.com/trepo/vgraph) - Distributable, versioned graph database.
 * [Java Implementation](https://github.com/trepo/trepo-java) - On hold for now.
